@@ -37,3 +37,6 @@ int main() {
         printf("\nWhich position do you want to delete: "); 
         scanf("%d", &position);
       }
+    }
+  }
+}
